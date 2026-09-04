@@ -7,7 +7,7 @@ about:
   head: aa9901f
   archived: false
   latestVersion: 1.17.0
-  collectedAt: 2026-09-04T19:59:17Z
+  collectedAt: 2026-09-04T20:43:32Z
 timeline:
   created: 2025-09-17
   lastCommit: 2026-05-08
@@ -81,5 +81,53 @@ total:
   openIssue: 15
   commit: 332
 ---
+path: /home/runner/.x-repo/github.com/mpryor/nothing-less
+collectedAt: 2026-09-04T20:43:34Z
+loc:
+  Python:
+    code: 24870
+    comments: 1105
+    blanks: 4025
+    files: 73
+  Json:
+    code: 594
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 188
+    comments: 45
+    blanks: 29
+    files: 6
+  Toml:
+    code: 78
+    comments: 0
+    blanks: 14
+    files: 3
+  Yaml:
+    code: 64
+    comments: 0
+    blanks: 4
+    files: 1
+  Css:
+    code: 48
+    comments: 0
+    blanks: 12
+    files: 1
+  Bash:
+    code: 9
+    comments: 6
+    blanks: 1
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2753
+    blanks: 1156
+    files: 22
+total:
+  code: 26016
+  comments: 3929
+  blanks: 5250
+  files: 109
 ---
 
