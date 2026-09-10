@@ -4,7 +4,7 @@
 
 A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing. 
 
-![nothing-less](https://repo.x-cmd.io/nothing-less.svg)
+![nothing-less](https://repo.x-cmd.io/nothing-less.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,15 @@ x install nothing-less
 - **最新版本**: `1.17.0` (2026-05-08)
 - **最近提交**: 2026-05-08
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-05-08T03:59:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [nothing_less-1.17.0-py3-none-any.whl](https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0-py3-none-any.whl) | 179.0 KiB | `other` |
+| [nothing_less-1.17.0-py3-none-any.whl.publish.attestation](https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0-py3-none-any.whl.publish.attestation) | 8.8 KiB | `other` |
+| [nothing_less-1.17.0.tar.gz](https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0.tar.gz) | 159.7 KiB | `native/unknown` |
+| [nothing_less-1.17.0.tar.gz.publish.attestation](https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0.tar.gz.publish.attestation) | 9.1 KiB | `other` |
 
 ## 流行度
 
@@ -62,4 +70,4 @@ nothing-less 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:02:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:52:50Z._
