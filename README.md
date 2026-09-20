@@ -4,7 +4,7 @@
 
 A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing. 
 
-![nothing-less](https://repo.x-cmd.io/nothing-less.svg)
+[![x-cmd/install — nothing-less Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nothing-less.svg)](https://x-cmd.com/install/nothing-less)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **25,851** lines of code across **84** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 6 | 2 | 0 | 2 | 0 | 15 |
-| 360d | 2025-09-23 | 43 | 15 | 0 | 25 | 15 | 225 |
-| last720d | 2024-09-28 | 47 | 24 | 0 | 25 | 15 | 332 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 6 | 2 | 0 | 2 | 0 | 13 |
+| 360d | 2025-09-25 | 41 | 13 | 0 | 25 | 15 | 212 |
+| last720d | 2024-09-30 | 47 | 24 | 0 | 25 | 15 | 332 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for nothing-less lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:08:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:20:37Z._
