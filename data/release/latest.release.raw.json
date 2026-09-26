@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 163486,
       "digest": "sha256:75fabadeac2d9ddd10c5679015d64cb2997cf7c1a0331a69cde09dda391f4d3d",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-05-08T03:59:31Z",
       "updated_at": "2026-05-08T03:59:31Z",
       "browser_download_url": "https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0.tar.gz"
