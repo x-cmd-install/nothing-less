@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 183336,
       "digest": "sha256:386973f3401aebeebc773b685cb4218a937690ea164e2a91115ade8cb1f9f1e1",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-08T03:59:31Z",
       "updated_at": "2026-05-08T03:59:31Z",
       "browser_download_url": "https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 163486,
       "digest": "sha256:75fabadeac2d9ddd10c5679015d64cb2997cf7c1a0331a69cde09dda391f4d3d",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-05-08T03:59:31Z",
       "updated_at": "2026-05-08T03:59:31Z",
       "browser_download_url": "https://github.com/mpryor/nothing-less/releases/download/1.17.0/nothing_less-1.17.0.tar.gz"
